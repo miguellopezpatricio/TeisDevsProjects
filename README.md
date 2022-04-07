@@ -1,6 +1,13 @@
 # {TeisDevs}
 Proyectos '''webapp + mobile''' del grupo de desarrolador@s de Teis
 
+## Material de estudio
+Frontend: React - ...
+Backend: Spring - ...
+
+Creación de webapp + mobileapp - ...
+
+
 En general, se seguirá la siguiente ruta de desarrollo:
 ...
 
